@@ -2,4 +2,5 @@
 
 
 # cmpg 323 project 1
-cmpg 323 overview
+Project 1 - CMPG 323 Overview 31370004 - URL -https://github.com/Kingmeka33/CMPG323-Overview-31370004
+
