@@ -27,4 +27,5 @@ This strategy will allow me to use each type of branch for parallel processing a
 4,Bug fixes/hot fixes will also be created on their own branch and will be merged with the develop branch.
 
 5,After each successfull feature or fix is added to the develop branch and the current version of the develop branch is stable, it will be merged with the main branch to be kept as the latest backup.
-![Screenshot 2024-07-28 104013](https://github.com/user-attachments/assets/18127a20-1358-481d-b26f-6e9109497a53)
+
+![Screenshot 2024-07-28 104420](https://github.com/user-attachments/assets/bf14cbd1-37e1-4b28-a614-9d3d714898f8)
