@@ -29,3 +29,18 @@ This strategy will allow me to use each type of branch for parallel processing a
 5,After each successfull feature or fix is added to the develop branch and the current version of the develop branch is stable, it will be merged with the main branch to be kept as the latest backup.
 
 ![Screenshot 2024-07-28 104420](https://github.com/user-attachments/assets/bf14cbd1-37e1-4b28-a614-9d3d714898f8)
+
+# The use of .gitignore files:
+
+.gitignore will be used in each project to list files that should be ignored when commiting changes, these files will include files that contain sensitive information or credentials, system files, log files and files that I want git to ignore.
+below is a list of each project and wether or not the project will use .gitignore
+
+Project 1 - .gitignore wont be used
+
+Project 2 - .gitignore will be used to ignore credentials
+
+Project 3 - .gitignore will be used to ignore credentials
+
+Project 4 - .gitignore will include .local,.settings,.tmh,.objects folders
+
+Project 5 - .gitignore will include node_modules, .tmp and, dist folders
