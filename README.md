@@ -51,4 +51,5 @@ I will be using git-secret to store credentials and sensitive information. git-s
 #Burndown Chart
 
 This Burndown chart is created in excel and will be continuously updated throuhout the semester.
+![Screenshot 2024-07-29 111030](https://github.com/user-attachments/assets/daf6e6d9-a771-446b-a2ee-8c39c931be9b)
 
