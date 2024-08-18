@@ -6,7 +6,7 @@ Project 1 - CMPG 323 Overview 31370004 - URL -https://github.com/Kingmeka33/CMPG
 
 Project 2 (API Development) - URL -https://github.com/Kingmeka33/cmpg323project2
 
-Project 3 (Standards & Patterns), a repository named (CMPG 323 Project 3) will be created
+Project 3 (Standards & Patterns) - URL -https://github.com/Kingmeka33/CMPG-PROJECT-3
 
 Project 4 (Testing & RPA), a repository named (CMPG 323 Project 4) will be created
 
